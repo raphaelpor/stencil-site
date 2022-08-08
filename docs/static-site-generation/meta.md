@@ -34,7 +34,7 @@ When building a static site with Stencil, managing meta tags dynamically can be 
 
 To start, install the package:
 
-```bash
+```bash npm2yarn
 npm install --save-dev @stencil/helmet
 ```
 

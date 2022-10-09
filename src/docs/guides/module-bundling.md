@@ -63,7 +63,7 @@ import { someUtilFunction } from '../utils.ts';
 @Component({
   tag: 'my-cmp'
 })
-export class MyCmp {}
+export class Cmp {}
 ```
 
 **src/components/my-cmp-two.tsx:**
@@ -74,7 +74,7 @@ import { someUtilFunction } from '../utils.ts';
 @Component({
   tag: 'my-cmp-two'
 })
-export class MyCmpTwo {}
+export class CmpTwo {}
 ```
 
 
